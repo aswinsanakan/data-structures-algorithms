@@ -1,4 +1,4 @@
-// O(n)
+// O(n) - Linear time
 
 const nemo = new Array(100).fill("nemo");
 
